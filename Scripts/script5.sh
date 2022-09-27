@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #"PARAMENTROS"
-##Cuando de le pasa valores a un scrip o funcion son argumentos 
+##Cuando se le pasa valores a un scrip o funcion son argumentos 
 ##Cuando haces el scrip o funcion son parametros
 
 # ./script5.sh param param2 param3 => es un ejemplo de como ejecutar 
