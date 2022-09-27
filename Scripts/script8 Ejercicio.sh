@@ -4,6 +4,8 @@
 #./NomFichero Extension NumFicheros Ruta
 #./script7.sh fichero py 3 test/
 
+#$0 es el nombre del chichero
+
 #asi es como se crea masomenos una funcion 
 error(){
     echo $1
